@@ -1,4 +1,6 @@
 Purpose
+
+
 The goal of this project was to restructure a Microsoft Excel VBA code that was used to gather stock information for the year 2018 and assess the investment potential of the stocks. Similar steps were taken to accomplish this procedure in the past, but this time around, we wanted to make the original code more effective.
 
 '1a) Create a ticker Index
